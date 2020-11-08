@@ -11,9 +11,6 @@ clarifai==2.6.2
 click==7.1.2
 colorama==0.4.1
 configparser==5.0.0
-covid==2.3.0
-covid-19==0.5.1
-COVID19Py==0.3.0
 cryptography==3.0
 cssselect==1.1.0
 cycler==0.10.0
